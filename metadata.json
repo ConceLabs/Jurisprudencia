@@ -1,0 +1,6 @@
+{
+  "name": "Asistente Jurisprudencia",
+  "description": "Una aplicación de chat para hacer preguntas sobre un repositorio de jurisprudencia. Incluye un panel de administrador para la carga masiva de documentos (.txt, .md, .docx) y una interfaz con sugerencias de temas generadas por IA.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
